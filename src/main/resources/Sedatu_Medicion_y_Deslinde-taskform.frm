@@ -1,0 +1,1 @@
+{"id":"d54a1673-b9fa-47f2-bdf2-736d271a3c76","name":"Sedatu_Medicion_y_Deslinde-taskform.frm","model":{"taskName":"Sedatu_Medicion_y_Deslinde","processId":"Publica_In_Out.Publica","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":3,"style":"FLUID","layoutProperties":{},"rows":[]}}
